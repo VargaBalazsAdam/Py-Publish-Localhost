@@ -54,7 +54,7 @@ pip install pyngrok
 
 1. Run the Ngrok Tunnel Manager application by executing the following command in the project directory:
 ```bash
-main.py
+python main.py
 ```
 
 2. The Ngrok Tunnel Manager GUI will open.
